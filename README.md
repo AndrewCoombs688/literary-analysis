@@ -2,7 +2,7 @@
 
 Statistical analysis of publication era in English novels using linguistic and psychological features.
 
-**Final Project Report:** [PDF](Literary_Analysis_Report.pdf)
+**Final Project Report:** [PDF](Modeling Publication Era in English Novels.pdf)
 
 **Full R Analysis:** [HTML](Analysis.html)
 
