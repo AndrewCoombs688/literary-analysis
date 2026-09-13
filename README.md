@@ -1,4 +1,4 @@
-# literary-analysis
+# Modeling Publication Era in English Novels
 
 Statistical analysis of publication era in English novels using linguistic and psychological features.
 
